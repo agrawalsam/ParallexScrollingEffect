@@ -1,0 +1,21 @@
+.parallex{
+    background-image:url("image.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    min-height:500px;
+    min-width:100%;
+}
+.after{
+    height:300px;
+    min-width:100%;
+    color:#fff;
+    background-color:#000;
+}
+.parallex1{
+    background-image:url("image2.jpeg");
+    background-size:cover;
+    background-attachment: fixed;
+    min-height:500px;
+    min-width:100%;
+}
